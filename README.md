@@ -6,8 +6,6 @@
   <a href="https://github.com/siddharthksah/NIDAQ-Data-Analysis/blob/master/LICENSE.txt"><img alt="GitHub license" src="https://img.shields.io/github/license/siddharthksah/NIDAQ-Data-Analysis"></a>
 </p>
 
-# National Instruments Data Acquisition (NIDAQ) Data Analysis 📈
-
 Welcome to the National Instruments Data Acquisition (NIDAQ) Data Analysis repository. This repo contains high-quality Python scripts written by [Siddharth Kumar](www.siddharthsah.com) to manipulate and analyze data collected through NIDAQ.
 
 ## Table of Contents 📚
