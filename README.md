@@ -1,9 +1,9 @@
 ![Header](./header.png)
 <p align="center">
-  <a href="https://github.com/siddharthksah/Crazy-OCR/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/siddharthksah/Crazy-OCR"></a>
-  <a href="https://github.com/siddharthksah/Crazy-OCR/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/siddharthksah/Crazy-OCR"></a>
-  <a href="https://github.com/siddharthksah/Crazy-OCR/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/siddharthksah/Crazy-OCR"></a>
-  <a href="https://github.com/siddharthksah/Crazy-OCR/blob/main/LICENSE.txt"><img alt="GitHub license" src="https://img.shields.io/github/license/siddharthksah/Crazy-OCR"></a>
+  <a href="https://github.com/siddharthksah/NIDAQ-Data-Analysis/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/siddharthksah/NIDAQ-Data-Analysis"></a>
+  <a href="https://github.com/siddharthksah/NIDAQ-Data-Analysis/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/siddharthksah/NIDAQ-Data-Analysis"></a>
+  <a href="https://github.com/siddharthksah/NIDAQ-Data-Analysis/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/siddharthksah/NIDAQ-Data-Analysis"></a>
+  <a href="https://github.com/siddharthksah/NIDAQ-Data-Analysis/blob/main/LICENSE.txt"><img alt="GitHub license" src="https://img.shields.io/github/license/siddharthksah/NIDAQ-Data-Analysis"></a>
 </p>
 
 # National Instruments Data Acquisition (NIDAQ) Data Analysis 📈
@@ -60,7 +60,6 @@ Clone this repository using
 
 ```
 git clone https://github.com/siddharthksah/NIDAQ-Data-Analysis.git
-
 ```
 ## Usage 🛠️
 
