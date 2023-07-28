@@ -3,7 +3,7 @@
   <a href="https://github.com/siddharthksah/NIDAQ-Data-Analysis/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/siddharthksah/NIDAQ-Data-Analysis"></a>
   <a href="https://github.com/siddharthksah/NIDAQ-Data-Analysis/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/siddharthksah/NIDAQ-Data-Analysis"></a>
   <a href="https://github.com/siddharthksah/NIDAQ-Data-Analysis/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/siddharthksah/NIDAQ-Data-Analysis"></a>
-  <a href="https://github.com/siddharthksah/NIDAQ-Data-Analysis/blob/main/LICENSE.txt"><img alt="GitHub license" src="https://img.shields.io/github/license/siddharthksah/NIDAQ-Data-Analysis"></a>
+  <a href="https://github.com/siddharthksah/NIDAQ-Data-Analysis/blob/master/LICENSE.txt"><img alt="GitHub license" src="https://img.shields.io/github/license/siddharthksah/NIDAQ-Data-Analysis"></a>
 </p>
 
 # National Instruments Data Acquisition (NIDAQ) Data Analysis 📈
