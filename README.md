@@ -10,9 +10,6 @@
 
 Welcome to the National Instruments Data Acquisition (NIDAQ) Data Analysis repository. This repo contains high-quality Python scripts written by [Siddharth Kumar](www.siddharthsah.com) to manipulate and analyze data collected through NIDAQ.
 
-![Python](https://img.shields.io/badge/Python-3.7-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-
 ## Table of Contents 📚
 
 - [Introduction](#introduction)
