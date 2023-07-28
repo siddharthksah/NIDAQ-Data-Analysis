@@ -11,15 +11,61 @@ Welcome to the National Instruments Data Acquisition (NIDAQ) Data Acquisition an
 ## Table of Contents 📚
 
 - [Introduction](#introduction)
+- [Prerequisites](#prerequisites)
+- [What's Inside](#whats-inside)
 - [Scripts Included](#scripts-included)
 - [Installation](#installation)
+- [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contribution](#contribution)
+- [Troubleshooting](#troubleshooting)
+- [Contributions](#contributions)
+- [Code of Conduct](#code-of-conduct)
 - [License](#license)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
 
 ## Introduction 🎉
 
 This repository aims to provide data scientists, researchers, and hobbyists with efficient and user-friendly tools to analyze and visualize data from National Instruments Data Acquisition (NIDAQ).
+
+## Prerequisites 🧩
+
+Before you begin, ensure you have met the following requirements:
+
+- Python 3.x
+- Other dependencies listed in the [requirements.txt](./requirements.txt) file.
+
+## What's Inside 👀
+
+This repository is packed with multiple Python scripts focused on NIDAQ data acquisition and analysis. Here's a quick look inside:
+
+<!--- Keep the script descriptions as they are already present in your README. --->
+
+And many more! Each script is well-documented, making it easy for you to understand the purpose and working of each line of code.
+
+## Scripts Included 📜
+
+<!--- List of script files and their links can remain unchanged as they are already present in your README. --->
+
+## Installation 🚀
+
+Clone this repository using
+
+```
+git clone https://github.com/siddharthksah/NIDAQ-Data-Analysis.git
+```
+Install the required dependencies using:
+```
+pip install -r requirements.txt
+```
+
+## Usage 🛠️
+
+Replace `<filename>` with the desired python script from above:
+
+```python
+python <filename>.py
+```
 
 ## What's Inside 👀
 
@@ -72,20 +118,6 @@ And many more! Each script is well-documented, making it easy for you to underst
 24. [plot_voltage_from_text_animation.py](./plot_voltage_from_text_animation.py): Creates animated plots of voltage data read from text files.
 25. [realtime_lineplot_moving_window_standard_deviation_nidaq.py](./realtime_lineplot_moving_window_standard_deviation_nidaq.py): Generates real-time line plots with moving window standard deviation for NIDAQ data.
 
-## Installation 🚀
-
-Clone this repository using
-
-```
-git clone https://github.com/siddharthksah/NIDAQ-Data-Analysis.git
-```
-## Usage 🛠️
-
-Replace `<filename>` with the desired python script from above:
-
-```python
-python <filename>.py
-```
 
 ## Contributions :handshake:
 
