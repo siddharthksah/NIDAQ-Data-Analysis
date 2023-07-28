@@ -1,6 +1,4 @@
 """
-nidaq_data_visualizer.py
-
 A script for real-time data acquisition and visualization using the National Instrument Data Acquisition (NIDAQ) tool.
 
 Author: Siddharth Kumar (www.siddharthsah.com)
