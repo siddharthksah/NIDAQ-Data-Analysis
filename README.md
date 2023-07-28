@@ -34,19 +34,7 @@ Before you begin, ensure you have met the following requirements:
 
 - Python 3.x
 - Other dependencies listed in the [requirements.txt](./requirements.txt) file.
-
-## What's Inside 👀
-
-This repository is packed with multiple Python scripts focused on NIDAQ data acquisition and analysis. Here's a quick look inside:
-
-<!--- Keep the script descriptions as they are already present in your README. --->
-
-And many more! Each script is well-documented, making it easy for you to understand the purpose and working of each line of code.
-
-## Scripts Included 📜
-
-<!--- List of script files and their links can remain unchanged as they are already present in your README. --->
-
+  
 ## Installation 🚀
 
 Clone this repository using
